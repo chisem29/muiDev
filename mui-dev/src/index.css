@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+}
+
+/*
+    https://leetcode.com/problems/sleep/submissions/
+  https://p.w3layouts.com/demos_new/template_demo/10-01-2020/modern-pricing-liberty-demo_Free/179362480/web/index.html?_gl=1*1mnwesm*_ga*ODY0NTAwMjQyLjE2OTc4MTE1NjA.*_ga_EGV5GTJEP5*MTY5NzgxMTU1OS4xLjEuMTY5NzgxMTcwNy4wLjAuMA..*_ga_9HSZ46TKMQ*MTY5NzgxMTU2MC4xLjEuMTY5NzgxMTcwNy41My4wLjA.*_ga_FFZF56TTWE*MTY5NzgxMTU2MC4xLjEuMTY5NzgxMTcwOC4wLjAuMA..&_ga=2.130962063.1496805930.1697811560-864500242.1697811560
+ */
